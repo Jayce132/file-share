@@ -5,11 +5,11 @@
     "socket.io": "^4.6.2"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node src/server.js"
   },
   "name": "fileshare",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "src/server.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
